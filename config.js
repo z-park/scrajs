@@ -1,5 +1,4 @@
 module.exports = {
-  // 
   log: {
     appenders: { 
       cheese: { type: 'file', filename: './log/error.log' },
